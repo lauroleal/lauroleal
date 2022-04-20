@@ -16,15 +16,18 @@
 ## Esses são os meus melhores repositórios 💻🖱
 
 
->   [**PERFIL NO GITHUB IO**](https://lauroleal.github.io/)
-
->  [**MEU CURRÍCULO**](https://lauroleal.github.io/curriculo/)
-
 >  [**GERADOR DE CURRÍCULOS**](https://lauroleal.github.io/gerador-de-curriculo/)
 
 >  [**JOGO JOKENPO**](https://lauroleal.github.io/jokenpo/)
 
 >  [**APP GERENCIADOR DE TAREFAS**](https://lauroleal.github.io/to-do-app/)
+
+>  [**JOGO DA VELHA**](https://lauroleal.github.io/jogo-da-velha/)
+
+>   [**PERFIL NO GITHUB IO**](https://lauroleal.github.io/)
+
+>  [**MEU CURRÍCULO**](https://lauroleal.github.io/curriculo/)
+
 
 <h3 align="center">Bora se conectar?</h3>
 <div align="center">

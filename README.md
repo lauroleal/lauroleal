@@ -18,11 +18,13 @@
 
 >  [**GERADOR DE CURRÍCULOS**](https://lauroleal.github.io/gerador-de-curriculo/)
 
->  [**JOGO JOKENPO**](https://lauroleal.github.io/jokenpo/)
-
 >  [**APP GERENCIADOR DE TAREFAS**](https://lauroleal.github.io/to-do-app/)
 
 >  [**JOGO DA VELHA**](https://lauroleal.github.io/jogo-da-velha/)
+
+>  [**GERAR/VALIDAR | CPF**](https://lauroleal.github.io/validar-cpf/)
+
+>  [**JOGO JOKENPO**](https://lauroleal.github.io/jokenpo/)
 
 >   [**PERFIL NO GITHUB IO**](https://lauroleal.github.io/)
 
